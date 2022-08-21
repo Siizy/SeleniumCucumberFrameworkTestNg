@@ -1,0 +1,5 @@
+parallel\LoginPageSteps.class
+orangehr\testrunner\TestRunner.class
+parallel\TestNgRunner.class
+parallel\AccountPageSteps.class
+parallel\ApplicationHooks.class

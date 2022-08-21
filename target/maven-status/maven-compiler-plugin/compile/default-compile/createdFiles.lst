@@ -1,0 +1,6 @@
+orangehr\pages\AccountsPage.class
+orangehr\util\Constants.class
+orangehr\util\ConfigReader.class
+orangehr\util\ElementUtil.class
+orangehr\pages\LoginPage.class
+orangehr\factory\DriverFactory.class
